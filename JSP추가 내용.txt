@@ -1,0 +1,8 @@
+src - main 
+- java/com/sring/mvc - basic - v1:WorkServlet, v2 ,v3
+	  	  - controller
+-resources - static - index
+
+-webapp - 전부
+
+build.gradle
